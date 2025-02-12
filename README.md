@@ -16,6 +16,8 @@ A machine learning model built using Gradient Boosting (GBM) in R Studio to pred
 
 ---
 
+![SpendSense AI UI] https://github.com/hossaizn/SpendSense-AI-Financial-Forecasting/blob/main/IMG_6605.jpg
+
 ## Technical Stack
 - **R Studio**
 - **Gradient Boosting Machine (GBM)**
